@@ -21,6 +21,7 @@ tags: python,trytond,database,transaction
 ### https://hg.tryton.org/modules/account_payment_stripe/file/tip/payment.py#l1093
 
 tags: python,trytond,database,context
+
 note: runtime context change
 
 ~~~python
@@ -30,6 +31,7 @@ note: runtime context change
 ### https://hg.tryton.org/modules/account_statement_rule/file/tip/account.py#l237
 
 tags: python,trytond,field
+
 note: parametrize fields
 
 ~~~python
