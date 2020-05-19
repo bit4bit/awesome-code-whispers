@@ -28,7 +28,7 @@ note: runtime context change
             with Transaction().set_context(company=payment.company.id):
 ~~~
 
-### https://hg.tryton.org/modules/account_statement_rule/file/tip/account.py#l237
+### [account_statement_rule/account.py#l237](https://hg.tryton.org/modules/account_statement_rule/file/tip/account.py#l237)
 
 tags: python,trytond,field
 
