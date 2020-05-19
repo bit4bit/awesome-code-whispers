@@ -1,6 +1,6 @@
 # RUBY
 
-## https://github.com/ruby/rake/blob/4fe73ff6b19ea1d8490b0442c75fc3a53815c4cf/lib/rake/dsl_definition.rb#L23
+## [lib/rake/dsl_definition.rb#23](https://github.com/ruby/rake/blob/4fe73ff6b19ea1d8490b0442c75fc3a53815c4cf/lib/rake/dsl_definition.rb#L23)
 
 tags: ruby,dsl,metaprogramming
 
@@ -8,7 +8,7 @@ tags: ruby,dsl,metaprogramming
     private(*FileUtils.instance_methods(false))
 ~~~
 
-## https://github.com/mruby/mruby/blob/d79147fe5dc4ee8b4eff6a37df229d993cf3ce58/lib/mruby/build.rb#L22
+## [lib/mruby/build.rb#L22](https://github.com/mruby/mruby/blob/d79147fe5dc4ee8b4eff6a37df229d993cf3ce58/lib/mruby/build.rb#L22)
 
 tags: ruby,dsl,metaprogramming
 
