@@ -3,7 +3,7 @@
 
 ## TRYTON ERP
 
-### https://hg.tryton.org/modules/account/file/tip/period.py#l307
+### [account/period.py#l307](https://hg.tryton.org/modules/account/file/tip/period.py#l307)
 
 tags: python,trytond,database,transaction
 
@@ -18,7 +18,7 @@ tags: python,trytond,database,transaction
         database.lock(connection, JournalPeriod._table)
 ~~~
 
-### https://hg.tryton.org/modules/account_payment_stripe/file/tip/payment.py#l1093
+### [account_payment_stripe/payment.py#l1093](https://hg.tryton.org/modules/account_payment_stripe/file/tip/payment.py#l1093)
 
 tags: python,trytond,database,context
 
