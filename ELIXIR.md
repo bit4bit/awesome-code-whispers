@@ -17,3 +17,16 @@ note: using pin operator for query map
     end
 ~~~
 
+### [test/support/conn_case](https://github.com/adriankumpf/teslamate/blob/56a6aa3e7f3ca42f41e6e4d80ef61fcf05397b34/test/support/conn_case.ex#L50)
+
+tags: elixir,pattern
+
+note: using tags to enable feature
+
+~~~elixir
+    ...
+    conn =
+      Phoenix.ConnTest.build_conn()
+      |> Plug.Conn.assign(:signed_in?, !!tags[:signed_in])
+    ...
+~~~
